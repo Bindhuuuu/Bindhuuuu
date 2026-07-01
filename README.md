@@ -1,81 +1,43 @@
-# ![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=for-the-badge)
+# ![Visitor Count](https://komarev.com/ghpvc/?Bindhuuuu&color=blue&style=for-the-badge)
+<h1 align="center">
+  💫 Hi 👋, I'm <b>Sree Bindhu Mannam</b>
+</h1>
 
-<h1 align="center">Hi 👋, I'm Sree Bindhu Mannam</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Sree+Bindhu+Mannam;AI+%26+ML+Undergraduate;Java+Developer;Machine+Learning+Enthusiast;Web+Developer" alt="Typing SVG" />
-  </a>
-</p>
-
-<h3 align="center">AI & ML Undergraduate | Java Developer | Web Developer | Machine Learning Enthusiast</h3>
-
-<p align="center">
-  <a href="mailto:msreebindhu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="YOUR_GITHUB_URL">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
+<h3 align="center">
+AI & ML Undergraduate | Software Developer | Machine Learning Enthusiast
+</h3>
 
 # 👩‍💻 About Me
 
 🎓 **B.Tech in Artificial Intelligence & Machine Learning** at **SRM University AP** (2023–2027)
-
 📚 Currently learning **Data Structures & Algorithms, Java, DBMS, Operating Systems, Computer Networks, and Generative AI**
-
 🤖 Passionate about **Artificial Intelligence, Machine Learning, NLP, and Full-Stack Web Development**
-
-💻 I enjoy building real-world projects using **Java, Python, HTML, CSS, JavaScript, PHP, and MySQL**
-
+💻 Daily user of AI development tools like **ChatGPT, Cursor, Claude, and Copilot**
 🌱 Currently improving my skills in **Machine Learning, Explainable AI, and Backend Development**
-
-📫 **Email:** msreebindhu@gmail.com
-
-⚡ **Fun Fact:** I love turning ideas into useful AI and Web applications.
-
 ---
 
 # 💻 Tech Stack
-
-### 👩‍💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python"/>
-</p>
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### 🌐 Web Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,php"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
-### 📖 Core Concepts
-
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Database Management System (DBMS)
-- Operating Systems
-- Computer Networks
-- Generative AI
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -91,92 +53,34 @@ A travel booking platform where users can:
 - 💳 Secure payment integration
 - 🗄️ MySQL database support
 
-**Tech Stack:** HTML • CSS • JavaScript • PHP • MySQL
+## 🚀 Featured Projects
 
+### ✈️ Travel Planner Website | HTML, CSS, JavaScript, PHP, MySQL
+Online travel booking platform enabling users to explore destinations, choose travel packages, manage bookings, and make secure payments.
 ---
-
-## 🍽️ Meal Finder Website
-
-A recipe search web application that allows users to discover meals using available ingredients.
-
-### Features
-
-- 🥘 Ingredient-based meal search
-- 🔍 Dynamic filtering
-- 📷 Recipe images
-- 📖 Step-by-step cooking instructions
-
-**Tech Stack:** HTML • CSS • JavaScript • MealDB API
-
+### 🍽️ Meal Finder Website | HTML, CSS, JavaScript, MealDB API
+Ingredient-based recipe search application with dynamic meal filtering, detailed cooking instructions, and recipe images.
 ---
-
-## 🧠 Brain Age Prediction using Explainable AI
-
-Machine Learning project that predicts brain age using MRI-derived brain morphometric features.
-
-### Highlights
-
-- Data preprocessing
-- Regression models
-- Explainable AI using SHAP
-- Feature importance visualization
-
-**Tech Stack:** Python • Scikit-Learn • SHAP
-
----
+### 🧠 Brain Age Prediction using Explainable AI | Python, Scikit-learn, SHAP
+Machine learning model that predicts brain age using MRI-derived brain morphometric data with Explainable AI for interpretable feature analysis.
 
 # 🔬 Research Experience
-
 ## Chatbot Implementation Analysis
-
 **SRM University AP | Jun 2025 – Aug 2025**
-
 - Studied chatbot evolution from rule-based systems to AI-driven conversational systems.
 - Explored NLP, intent recognition, and dialogue management.
 - Learned API-based chatbot integrations.
 - Analyzed modern conversational AI architectures.
-
 ---
-
 # 🏆 Certifications
 
 🏅 Oracle Certified Professional – Java SE 17 Developer
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&row=1&column=6"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-</p>
-
 ---
 
 # 🌍 Connect with Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/sree-bindhu-mannam-85444b291">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -184,7 +88,7 @@ Machine Learning project that predicts brain age using MRI-derived brain morphom
 <img src="https://img.shields.io/badge/Gmail-Send%20Mail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="YOUR_GITHUB_URL">
+<a href="https://github.com/Bindhuuuu/Bindhuuuu">
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 </p>
