@@ -1,3 +1,4 @@
+# ![Visitor Count](https://komarev.com/ghpvc/?username=Bindhuuuu&color=8A2BE2&style=flat-square&label=Profile+Views)
 
 
 <div align="center">
