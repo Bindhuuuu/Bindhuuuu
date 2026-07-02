@@ -14,15 +14,10 @@
 
 ### 🌌 About Me
 
-```yaml
-name: Sree Bindhu Mannam
-degree: B.Tech, AI & Machine Learning
-university: SRM University AP
-timeline: 2023 - 2027
-focus: [NLP, Explainable AI, Full-Stack Dev]
-daily_tools: [ChatGPT, Cursor, Claude, Copilot]
-currently_learning: [DSA, DBMS, OS, Computer Networks, GenAI]
-```
+- 🎓 Third-year B.Tech student in Computer Science & Engineering (AI & ML)
+- 🧠 Passionate about GenAI, automation, backend systems, and AI-powered developer tools
+- 🌱 I’m constantly learning about System Design, NLP, and Full-Stack Development
+- 🤖  Currently improving problem-solving, backend development, and scalable system design
 
 ---
 
@@ -32,7 +27,6 @@ currently_learning: [DSA, DBMS, OS, Computer Networks, GenAI]
 
 **Languages**
 <br>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
