@@ -1,4 +1,4 @@
-# ![Visitor Count](https://komarev.com/ghpvc/?username=Bindhuuuu&color=8A2BE2&style=flat-square&label=Profile+Views)
+
 
 <div align="center">
 
@@ -30,18 +30,9 @@ currently_learning: [DSA, DBMS, OS, Computer Networks, GenAI]
 
 </td>
 <td valign="top" width="45%">
-
-### 📈 Quick Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bindhuuuu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" width="100%"/>
-
-</td>
-</tr>
-</table>
-
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -151,5 +142,5 @@ ML model predicting brain age from MRI morphometric data, with SHAP-driven expla
 </p>
 
 <div align="center">
-<i>"Learning, building, and growing — one commit at a time." ⭐</i>
+<i>"Learning, building, and growing — one commit at a time." </i>
 </div>
