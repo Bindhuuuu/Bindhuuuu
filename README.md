@@ -1,6 +1,5 @@
 # ![Visitor Count](https://komarev.com/ghpvc/?username=Bindhuuuu&color=8A2BE2&style=flat-square&label=Profile+Views)
 
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Sree+Bindhu+%F0%9F%91%8B;AI+%26+ML+Undergraduate;Machine+Learning+Enthusiast;Full-Stack+%26+GenAI+Explorer" alt="Typing SVG" />
@@ -12,10 +11,6 @@
 </div>
 
 <br>
-
-<table align="center">
-<tr>
-<td valign="top" width="55%">
 
 ### 🌌 About Me
 
@@ -29,8 +24,6 @@ daily_tools: [ChatGPT, Cursor, Claude, Copilot]
 currently_learning: [DSA, DBMS, OS, Computer Networks, GenAI]
 ```
 
-</td>
-<td valign="top" width="45%">
 ---
 
 ## 🛠️ Tech Stack
@@ -128,6 +121,8 @@ ML model predicting brain age from MRI morphometric data, with SHAP-driven expla
 </div>
 
 ---
+
+
 ## 🌍 Let's Connect
 
 <p align="center">
@@ -143,5 +138,5 @@ ML model predicting brain age from MRI morphometric data, with SHAP-driven expla
 </p>
 
 <div align="center">
-<i>"Learning, building, and growing — one commit at a time." </i>
+<i>"Learning, building, and growing — one commit at a time." ⭐</i>
 </div>
